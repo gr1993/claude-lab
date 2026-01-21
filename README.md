@@ -10,5 +10,8 @@ Claude 코드를 활용하면서 만든 유용한 스킬, 커맨드, 도구들�
 
 ### Sub Agents
 
-### Commands
+* test-runner
+  * 메인 에이전트가 수정한 Java 클래스의 유닛 테스트 작성 및 검증 수행
+  * CLAUDE.md 지침을 통해 모든 코드 수정 시 자동으로 호출 및 실행되도록 구성
 
+### Commands
